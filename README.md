@@ -1,6 +1,6 @@
 # Kimsufi Crawler
 
-
+[![CodeRuse Slack](http://slack.coderuse.com/badge.svg)](http://slack.coderuse.com "Let's discuss some interesting stuff!")
 
 ```
 Copyright 2015 Arnab Das <arnab.social@live.in>
